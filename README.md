@@ -2,6 +2,10 @@
 
 A comprehensive system for agricultural data generation and machine learning predictions for The Gambia.
 
+## !NOTE
+
+this is a learning project for [Dawda Borje Kujabi](https://github.com/Dawdaborje) to learn machine learning
+
 ## 🌾 Features
 
 ### Data Generation
