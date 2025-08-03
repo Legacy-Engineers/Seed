@@ -1,0 +1,9 @@
+crop,area_hectares,production_tons,yield_per_hectare,farmers_count
+Rice,56000,224000,4.2,18480
+Millet,42560,85120,2.1,14112
+Sorghum,31360,62720,2.1,9632
+Maize,20160,40320,2.1,7392
+Groundnuts,95200,190400,2.1,24080
+Cotton,6160,9856,1.7,2576
+Vegetables,14560,29120,2.1,9632
+Fruits,10304,20608,2.1,6272

@@ -1,0 +1,24 @@
+Gambia Agricultural Census Data Summary
+=====================================
+
+Data Source: Extended dataset generation based on FAO Agricultural Census Report
+Years Covered: 2004 to 2021
+
+Dataset Categories:
+- crops: Crop production data (area, production, yield, farmers)
+- fisheries: Fisheries data (production, value, fishermen)
+- sales: Market sales data (quantities, values, selling farmers)
+- livestock: Livestock population data (animals, values, owners)
+- practices: Farm practices data (irrigation, fertilizer, etc.)
+- tenure: Land tenure data (ownership patterns)
+
+File Structure:
+- data/YYYY/crops_YYYY.csv
+- data/YYYY/fisheries_YYYY.csv
+- data/YYYY/sales_YYYY.csv
+- data/YYYY/livestock_YYYY.csv
+- data/YYYY/practices_YYYY.csv
+- data/YYYY/tenure_YYYY.csv
+(for years 2004 to 2021)
+
+Generated on: 2025-08-03 20:34:38
